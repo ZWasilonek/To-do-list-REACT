@@ -20,7 +20,7 @@ Install packages
 
 ### `json-server --watch db.json`
 
-The command must be run from path to-do-list/src/data. <br>
+The command must be run from path /src/data. <br>
 Runs the database db.json which can view in the browser [http://localhost:3000](http://localhost:3000)
 
 ### `npm run build | npm start`
