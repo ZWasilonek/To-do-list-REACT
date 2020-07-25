@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn React",
+      "description": "Build a lot of projects based on React to get understanding of that library",
+      "status": "closed",
+      "timeSpent": 10296729,
+      "websites": [
+        {
+          "title": "React documentation",
+          "link": "https://pl.reactjs.org/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Learn Redux",
+      "description": "Understand global state",
+      "status": "closed",
+      "timeSpent": 425000,
+      "websites": [
+        {
+          "title": "Redux documentation",
+          "link": "https://redux.js.org/"
+        }
+      ]
+    },
+    {
+      "title": "Learn to swim",
+      "description": "Find a pool and a good instructor",
+      "status": "closed",
+      "timeSpent": 0,
+      "websites": [],
+      "id": 3
+    },
+    {
+      "title": "Find a dress for a wedding",
+      "description": "Deadline: 13/09/2020",
+      "status": "closed",
+      "timeSpent": 16000,
+      "websites": [],
+      "id": 5
+    },
+    {
+      "title": "Plan a friend's birthday",
+      "description": "Party for 35 people, open air, cake, invitations. Deadline 02/16/2020",
+      "status": "closed",
+      "timeSpent": 0,
+      "websites": [],
+      "id": 6
+    }
+  ]
+}

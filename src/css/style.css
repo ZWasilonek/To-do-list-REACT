@@ -1,0 +1,134 @@
+/* index.html line #15 */
+#app {
+  margin: 40px auto 10em auto;
+}
+ 
+
+
+/* Main.js line #107 */
+.container {
+  background-color:#dddddd;
+}
+
+
+
+/* Tasks.js line #18 */
+.tasksList {
+  margin-left: -40px;
+}
+
+
+
+/* Task.js */
+/* line #136 */
+.task-item {
+  padding-left: 40px;
+  margin-bottom: 2em;
+}
+
+/* line #137 */
+.task-item li {
+  background-color: darkgrey;
+}
+
+/* 
+Task.js line #149, #171, 
+FormAddWebsite line #94, 
+Form line #106 
+*/
+.btn:hover {
+  color: white;
+}
+
+/* line #154 */
+.btn-delete:hover {
+  color: #C6D2FF
+}
+
+/* line #154 */
+.btn-delete {
+  background-color:#545454;
+  color: white;
+}
+
+/* line #149 */
+.btn-status {
+  background-color: #B2D1C5;
+}
+
+/* line #159 */
+.btn-add-website {
+  background-color: #f3e7d6;
+}
+
+/* line #159 */
+.btn-add-website:hover {
+  color: #C6848D;
+}
+
+/* line #171 */
+.btn-websites {
+  background-color: #C6D2FF;
+}
+
+
+
+/* FormAddWebsite.js
+/* line #78, #86 */
+.form-web input {
+  margin: 5px auto 5px auto;
+}
+
+/* line #94 */
+.form-web .btn-add {
+  margin-bottom: -10px;
+}
+
+
+
+
+/* Link.js */
+/* line #17 */
+.links {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+/* line #29 */
+.icon {
+  margin: 0 0 4px 20px;
+}
+
+/* line #19 */
+.links a {
+  text-decoration: none;
+  color: yellow;
+}
+
+/* line #19 */
+.links a:hover {
+  text-decoration: none;
+  color: #ed1212;
+}
+
+
+
+/* Form.js */
+/* line #85 */
+form {
+  margin-bottom: 2em;
+}
+
+/* line #106 */
+.btn-add {
+  background-color: #C6848D;
+}
+
+/*
+Form.js line #89, 
+FormAddWebsite.js line #75 
+*/
+.error-bg {
+  background-color: #ECF4FF;
+}
