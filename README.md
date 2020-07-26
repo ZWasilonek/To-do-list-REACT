@@ -7,7 +7,7 @@ The application includes a form for adding new things to do. For each item, we h
 ## Technologies
 
 * REACT
-* JavaScrip 
+* JavaScript
 * Bootstrap
 
 ## Available Scripts
