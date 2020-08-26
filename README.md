@@ -23,7 +23,7 @@ Install packages
 The command must be run from path /src/data. <br>
 Runs the database db.json which can view in the browser [http://localhost:3000](http://localhost:3000)
 
-### `npm run build | npm start`
+### `npm start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
