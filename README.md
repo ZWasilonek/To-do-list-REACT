@@ -29,5 +29,5 @@ Runs the app in the development mode.<br />
 Open [http://localhost:5000](http://localhost:5000) to view it in the browser.
 
 ## Contact 
-zofiawasilonek@.gmail.com<br>
+zofiawasilonek@gmail.com<br>
 <a href="https://www.linkedin.com/in/zofia-wasilonek/">Linkedin</a>
